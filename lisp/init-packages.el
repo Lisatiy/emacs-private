@@ -39,8 +39,9 @@
 (global-hungry-delete-mode)
 
 (require 'smartparens-config)
-(add-hook 'emacs-lisp-mode-hook 'smartparens-mode)
-(add-hook 'js-mode-hook 'smartparens-mode)
+(smartparens-global-mode t)
+;; (add-hook 'emacs-lisp-mode-hook 'smartparens-mode)
+;; (add-hook 'js-mode-hook 'smartparens-mode)
 
 (ivy-mode 1)
 (setq ivy-use-virtual-buffers t)
