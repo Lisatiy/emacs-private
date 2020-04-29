@@ -121,4 +121,10 @@
 		  "return links as string\n"))))
     (format "%s" (s-chop-suffix "\"" (s-chop-prefix "\"" result)))))
 
+(defun lisatiy/helm-ag-gbk (&rest args)
+  (set-terminal-coding-system nil)
+  (set-keyboard-coding-system nil)
+  (set-language-environment 'chinese-gbk))
+(advice-add 'helm-do-ag :before #'lisatiy/helm-ag-gbk)
+
 (provide 'init-better-defaults)

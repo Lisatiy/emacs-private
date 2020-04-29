@@ -25,6 +25,9 @@
 			   expand-region
 			   iedit
 			   org-pomodoro
+			   helm-ag
+			   flycheck
+			   auto-yasnippet
 			   ;; --- Themes ---
 			   monokai-theme
 			   ;; solarized-theme
@@ -116,6 +119,12 @@
 (popwin-mode 1)
 
 (require 'org-pomodoro)
+
+(add-hook 'js2-mode 'flycheck-mode)
+
+(require 'yasnippet)
+(yas-reload-all)
+(add-hook 'prog-mode-hook #'yas-minor-mode)
 
 ;; provide feature
 (provide 'init-packages)

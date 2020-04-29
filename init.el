@@ -4,6 +4,9 @@
 ;; You may delete these explanatory comments.
 
 (add-to-list 'load-path "~/.emacs.d/lisp/")
+(let ((lisatiy-path "c:/Program Files/ag_win64/"))
+  (setenv "PATH" (concat lisatiy-path ":" (getenv "PATH"))) ; Assume ":" is the separator
+  (add-to-list 'exec-path lisatiy-path))
 
 (defun open-my-init-file()
   (interactive)
