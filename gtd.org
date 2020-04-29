@@ -1,0 +1,10 @@
+* ¹¤×÷°²ÅÅ
+
+** TODO [#B] transfer learning paper.
+   SCHEDULED: <2020-04-29 ÖÜÈý 14:00>
+   :LOGBOOK:
+   CLOCK: [2020-04-29 周三 08:36]
+   :END:
+
+** TODO [#B] emacs day6 and day7.
+

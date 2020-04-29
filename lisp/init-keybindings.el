@@ -32,6 +32,9 @@
 
 (global-set-key (kbd "C-=") 'er/expand-region)
 
+;; r aka remember
+(global-set-key (kbd "C-c r") 'org-capture)
+
 (with-eval-after-load 'dired
   (define-key dired-mode-map (kbd "RET") 'dired-find-alternate-file))
 

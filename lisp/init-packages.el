@@ -24,6 +24,7 @@
 			   popwin
 			   expand-region
 			   iedit
+			   org-pomodoro
 			   ;; --- Themes ---
 			   monokai-theme
 			   ;; solarized-theme
@@ -113,6 +114,8 @@
 
 (require 'popwin)
 (popwin-mode 1)
+
+(require 'org-pomodoro)
 
 ;; provide feature
 (provide 'init-packages)
