@@ -1,16 +1,12 @@
 * Work
 
 ** TODO [#A] business plan of innovation and entrepreneurship. 
+   SCHEDULED: <2020-04-30 周四 20:00>
   
-  [2020-04-30 周四 09:51]
 
 ** TODO [#A] reviewer in xlsx for transfer learning on manufacturing. 
-   SCHEDULED: <2020-04-30 周四 10:52>
-   :LOGBOOK:
-   CLOCK: [2020-04-30 周四 11:30]--[2020-04-30 周四 11:31] =>  0:01
-   CLOCK: [2020-04-30 周四 11:17]--[2020-04-30 周四 11:18] =>  0:01
-   CLOCK: [2020-04-30 周四 11:07]--[2020-04-30 周四 11:12] =>  0:05
-   :END:
-  
-  [2020-04-30 周四 09:53]
+   SCHEDULED: <2020-04-30 周四 14:00>
+
+* Workspace
+
 

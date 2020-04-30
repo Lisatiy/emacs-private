@@ -43,7 +43,7 @@
 	("L" "Protocol Link" entry (file+headline org-agenda-file-note "Inbox")
 	 "* %? [[%:link][%:description]] \nCaptured On: %U")
 	("c" "Chrome" entry (file+headline org-agenda-file-note "Quick notes")
-	 "* TODO [#C] %?\n %(zilongshanren/retrieve-chrome-current-tab-url)\n %i\n %U"
+	 "* TODO [#C] %?\n %(lisatiy/retrieve-chrome-current-tab-url)\n %i\n %U"
 	 :empty-lines 1)
 	("l" "links" entry (file+headline org-agenda-file-note "Quick notes")
 	 "* TODO [#C] %?\n  %i\n %a \n %U"
@@ -62,7 +62,7 @@
               ("b" "Blog" tags-todo "BLOG")
               ("p" . "project schedule")
               ("pw" tags-todo "PROJECT+WORK+CATEGORY=\"work\"")
-              ("pl" tags-todo "PROJECT+DREAM+CATEGORY=\"zilongshanren\"")
+              ("pl" tags-todo "PROJECT+DREAM+CATEGORY=\"lisatiy\"")
               ("W" "Weekly Review"
                ((stuck "") ;; review stuck projects as designated by org-stuck-projects
                 (tags-todo "PROJECT") ;; review all projects (assuming you use todo keywords to designate projects)
