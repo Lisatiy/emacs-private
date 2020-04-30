@@ -39,6 +39,8 @@
 			   sound-wav
 			   ;; --- Themes ---
 			   monokai-theme
+			   all-the-icons
+			   doom-modeline
 			   ;; solarized-theme
 			   ) "Default packages")
 (setq package-selected-packages lisatiy/packages)
@@ -191,6 +193,11 @@
 	      )))
 
 (which-key-mode 1)
+
+(require 'all-the-icons)
+
+(require 'doom-modeline)
+(doom-modeline-mode 1)
 
 ;; provide feature
 (provide 'init-packages)
