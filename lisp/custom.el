@@ -10,6 +10,12 @@
     ("6c62b1cd715d26eb5aa53843ed9a54fc2b0d7c5e0f5118d4efafa13d7715c56e" default)))
  '(evil-leader/leader "SPC")
  '(evil-want-C-u-scroll t)
+ '(org-pomodoro-length 40)
+ '(org-pomodoro-long-break-length 10)
+ '(org-pomodoro-long-break-sound-p nil)
+ '(org-pomodoro-overtime-sound-p nil)
+ '(org-pomodoro-play-sounds nil)
+ '(org-pomodoro-short-break-sound-p nil)
  '(popwin:popup-window-position (quote right))
  '(popwin:popup-window-width 90))
 (custom-set-faces

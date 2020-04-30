@@ -127,4 +127,9 @@
   (set-language-environment 'chinese-gbk))
 (advice-add 'helm-do-ag :before #'lisatiy/helm-ag-gbk)
 
+(defun lisatiy/init-sound-wav ()
+  (use-package sound-wav
+    :defer t
+    :init))
+
 (provide 'init-better-defaults)

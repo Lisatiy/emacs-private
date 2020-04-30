@@ -24,7 +24,6 @@
 			   popwin
 			   expand-region
 			   iedit
-			   org-pomodoro
 			   helm-ag
 			   flycheck
 			   auto-yasnippet
@@ -35,6 +34,9 @@
 			   evil-nerd-commenter
 			   which-key
 			   ;; powerline
+			   ;; --- Org Mode ---
+			   org-pomodoro
+			   sound-wav
 			   ;; --- Themes ---
 			   monokai-theme
 			   ;; solarized-theme
