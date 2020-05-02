@@ -3,18 +3,113 @@
 ** 2020-04 四月
 *** 2020-04-30 星期四
 
-**** transfer-learning-tutorial-book-wjd.
-     SCHEDULED: <2020-04-30 周四 11:00 +1d>
+**** TODO [#B] transfer-learning-tutorial-book-wjd.
+     :PROPERTIES:
+     :LAST_REPEAT: [2020-05-02 周六 20:10]
+     :END:
+     - State "DONE"       from "TODO"       [2020-05-02 周六 20:10]
+     - [X] section 1-4.
+     - [ ] section 5.
+     SCHEDULED: <2020-05-03 周日 11:00-11:30 +1d>
+     :PROPERTIES:
+     :LAST_REPEAT: [2020-05-01 周五 12:37]
+     :END:
+     - State "DONE"       from "TODO"       [2020-05-01 周五 12:37]
+     :LOGBOOK:
+     CLOCK: [2020-05-01 周五 12:20]--[2020-05-01 周五 12:37] =>  0:17
+     :END:
 
-**** GRE-vocabulary.
-     SCHEDULED: <2020-04-30 周四 07:30 +1d>
+**** TODO [#B] GRE-vocabulary.
+     SCHEDULED: <2020-05-03 周日 07:30-08:00 +1d>
+     :PROPERTIES:
+     :LAST_REPEAT: [2020-05-02 周六 08:07]
+     :END:
+     - State "DONE"       from "TODO"       [2020-05-02 周六 08:07]
+     :LOGBOOK:
+     CLOCK: [2020-05-02 周六 07:48]--[2020-05-02 周六 08:07] =>  0:19
+     :END:
 
-**** [#A] paper about human-robot-collaboration.
-     SCHEDULED: <2020-04-30 周四 08:00 +1d>
+     - State "DONE"       from "TODO"       [2020-05-01 周五 07:56]
+**** TODO [#A] paper about human-robot-collaboration.
+     :PROPERTIES:
+     :LAST_REPEAT: [2020-05-02 周六 09:04]
+     :END:
+     - State "DONE"       from "TODO"       [2020-05-02 周六 09:04]
+     - State "DONE"       from "TODO"       [2020-05-01 周五 08:32]
+     - [X] Dynamic Emotion Understanding in Human–Robot Interaction Based on Two-Layer Fuzzy SVR-TS Model
+       - [X] introcuction
+       - [X] conclusion
+       - [X] experiment
+     SCHEDULED: <2020-05-03 周日 08:30-09:00 +1d>
+     :LOGBOOK:
+     CLOCK: [2020-05-02 周六 08:15]--[2020-05-02 周六 08:55] =>  0:40
+     CLOCK: [2020-05-01 周五 08:00]--[2020-05-01 周五 08:32] =>  0:32
+     :END:
 
-**** [#A] vimtutor.
-     DEADLINE: <2020-04-30 周四 23:30 +1d> SCHEDULED: <2020-05-10 周日 23:00>
+**** TODO [#A] vimtutor.
+     DEADLINE: <2020-05-11 周一 23:54> SCHEDULED: <2020-05-03 周日 23:00-23:30 +1d>
+     :PROPERTIES:
+     :LAST_REPEAT: [2020-05-03 周日 00:07]
+     :END:
+     - State "DONE"       from "TODO"       [2020-05-03 周日 00:07]
+     - State "DONE"       from "TODO"       [2020-05-01 周五 22:09]
+     - State "DONE"       from "TODO"       [2020-04-30 周四 23:39]
+     :LOGBOOK:
+     CLOCK: [2020-05-02 周六 23:34]--[2020-05-03 周日 00:07] =>  0:33
+     CLOCK: [2020-04-30 周四 23:16]--[2020-04-30 周四 23:39] =>  0:23
+     :END:
 
 **** metal-learning-video.
-     SCHEDULED: <2020-05-16 周六>
-     
+     SCHEDULED: <2020-05-16 周六 11:00-11:30 +1d>
+** 2020-05 五月
+*** 2020-05-01 星期五
+    
+**** TODO [#B] emacs-learning-video-zilong.
+     :PROPERTIES:
+     :LAST_REPEAT: [2020-05-02 周六 23:29]
+     :END:
+     - State "DONE"       from "TODO"       [2020-05-02 周六 23:29]
+     - [X] day1.
+     - [X] day2.
+     - [X] day3.
+     - [X] day4.
+     - [X] day5.
+     - [X] day6.
+     - [X] day7.
+     - [X] day8.
+     - [X] day9.
+     - [X] day10.
+     - [X] day11.
+     - [X] day12.
+     - [X] day13.
+     - [X] day14.
+     - [X] day15.
+     - [X] day16.
+     - [X] day17.
+     - [X] day18.
+     - [X] day19.
+     - [X] day20.
+     - [X] day21.
+     - [X] org-mode-gtd.
+     - [X] emacs-life-style.
+     DEADLINE: <2020-05-31 周日 23:40> SCHEDULED: <2020-05-03 周日 23:30 +1d>
+     :PROPERTIES:
+     :LAST_REPEAT: [2020-05-01 周五 11:24]
+     :END:
+     - State "DONE"       from "TODO"       [2020-05-01 周五 11:24]
+     :LOGBOOK:
+     CLOCK: [2020-05-01 周五 10:54]--[2020-05-01 周五 11:24] =>  0:30
+     CLOCK: [2020-05-01 周五 10:06]--[2020-05-01 周五 10:46] =>  0:40
+     :END:
+
+**** TODO check out mailbox.
+     SCHEDULED: <2020-05-03 周日 08:00-08:10 +1d>
+     :PROPERTIES:
+     :LAST_REPEAT: [2020-05-02 周六 08:11]
+     :END:
+     - State "DONE"       from "TODO"       [2020-05-02 周六 08:11]
+     :LOGBOOK:
+     CLOCK: [2020-05-02 周六 08:08]--[2020-05-02 周六 08:11] =>  0:03
+     :END:
+
+     - State "DONE"       from "TODO"       [2020-05-01 周五 21:20]

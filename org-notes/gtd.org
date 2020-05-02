@@ -1,12 +1,49 @@
 * Work
 
 ** TODO [#A] business plan of innovation and entrepreneurship. 
-   SCHEDULED: <2020-04-30 周四 20:00>
+   DEADLINE: <2020-05-08 周五 08:00> SCHEDULED: <2020-05-03 周日 14:00 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-05-02 周六 23:14]
+   :END:
+   - State "DONE"       from "TODO"       [2020-05-02 周六 23:14]
+   - State "DONE"       from "TODO"       [2020-05-01 周五 23:29]
+   :LOGBOOK:
+   CLOCK: [2020-05-01 周五 14:46]--[2020-05-01 周五 15:26] =>  0:40
+   :END:
   
-
-** TODO [#A] reviewer in xlsx for transfer learning on manufacturing. 
-   SCHEDULED: <2020-04-30 周四 14:00>
+   
+   - State "DONE"       from "TODO"       [2020-04-30 周四 23:49]
+** TODO [#A] reviewer in xlsx.  :transfer learning on manufacturing:
+   DEADLINE: <2020-05-15 周五 08:00> SCHEDULED: <2020-05-03 周日 09:00 +1d>
+   :PROPERTIES:
+   :LAST_REPEAT: [2020-05-02 周六 20:10]
+   :END:
+   - State "DONE"       from "TODO"       [2020-05-02 周六 20:10]
+   - State "DONE"       from "TODO"       [2020-05-01 周五 18:13]
+   :LOGBOOK:
+   CLOCK: [2020-05-01 周五 09:15]--[2020-05-01 周五 09:55] =>  0:40
+   :END:
 
 * Workspace
 
+** TODO [#A] pay for page charges of CIMS.                             :CIMS:
+   SCHEDULED: <2020-05-06 周三 10:00>
+  
+  [2020-04-30 周四 21:55]
+
+** TODO [#B] org-mode写博客.
+   SCHEDULED: <2020-05-09 周六 10:20>
+  
+  [2020-04-30 周四 23:14]
+
+** DONE [#B] how to note annotaion in Chinese in Mendeley.
+   1. 本来就可以输入中文note
+   2. 可以在百度学生导出RefMan, 导入中文文献
+   3. Ubuntu系统也可以使用Mendeley, 也可以记录中文note
+   SCHEDULED: <2020-05-01 周五 08:30>
+   :LOGBOOK:
+   CLOCK: [2020-05-01 周五 08:41]--[2020-05-01 周五 08:55] =>  0:14
+   :END:
+  
+  [2020-05-01 周五 08:33]
 
